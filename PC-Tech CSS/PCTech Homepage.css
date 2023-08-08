@@ -182,13 +182,23 @@ span.card img{
   transform: rotateY(180deg);
 }
 
-/*Home*/
-
-/*Products*/
-
-/*Services*/
-
-/*Contact*/
+/*Icons Styling*/
 .icons{
   text-align: center;
 }
+
+.small-text{
+  font-size: 11px;
+}
+
+footer{
+  text-align: center;
+  padding: 10px;
+  background-color: #FF3E3F;
+}
+
+footer a:hover{
+  color: #f1f1f1;
+}
+
+/*Responsive Web Design*/
